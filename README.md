@@ -2,7 +2,7 @@
 
 A simple task management application built with React.
 
-Live Demo: https://task-tracker-2qo2e1c38-pavitras-projects-256d6f2a.vercel.app/ 
+Live Demo: (https://task-tracker-six-psi-47.vercel.app/)
 
 ## Overview
 
